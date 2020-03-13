@@ -1,5 +1,4 @@
 # elfp-user-manager
-<<<<<<< HEAD
 
 ## Project setup
 ```
