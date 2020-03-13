@@ -1,4 +1,5 @@
 # elfp-user-manager
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Manage Users for ELFP (poc)
+>>>>>>> aff88721d69e74ad712b567fffc2f058cef4dce1
